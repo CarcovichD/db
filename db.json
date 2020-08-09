@@ -1,0 +1,32 @@
+{
+    "courses":[
+        {
+        "id": 1,
+        "nombre": "Congreso del Peru",
+        "imagen": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2020/03/26/000663568W.jpg",
+        "price": "65 Soles",
+        "teacher": "Diego Carcovich"
+        },
+        {
+            "id": 2,
+            "nombre": "Congreso de Chile",
+            "imagen": "https://static.emol.cl/emol50/Fotos/2017/11/20/file_20171120171242.jpg",
+            "price": "120 Soles",
+            "teacher": "Paul Fuensalida"
+        },
+        {
+            "id": 3,
+            "nombre": "Congreso de Bolivia",
+            "imagen": "https://files.rcnradio.com/public/styles/image_834x569/public/2019-11/congreso_0.jpg?itok=6JkCc0rb",
+            "price": "90 Soles",
+            "teacher": "Jon Mamani"
+        },
+        {
+            "id": 4,
+            "nombre": "Congreso del Ecuador",
+            "imagen": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/12/19050010/asamblea-ecuador.jpg",
+            "price": "70 Soles",
+            "teacher": "Alex Pezua"
+        }
+    ]
+}
