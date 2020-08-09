@@ -1,4 +1,5 @@
-[
+{
+    "courses": [
     {
         "id": 1,
         "nombre": "Congreso del Peru",
@@ -27,4 +28,4 @@
         "price": "70 Soles",
         "teacher": "Alex Pezua"
     }
-]
+}
