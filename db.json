@@ -1,11 +1,11 @@
 {
     "courses":[
         {
-        "id": 1,
-        "nombre": "Congreso del Peru",
-        "imagen": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2020/03/26/000663568W.jpg",
-        "price": "65 Soles",
-        "teacher": "Diego Carcovich"
+            "id": 1,
+            "nombre": "Congreso del Peru",
+            "imagen": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2020/03/26/000663568W.jpg",
+            "price": "65 Soles",
+            "teacher": "Diego Carcovich"
         },
         {
             "id": 2,
